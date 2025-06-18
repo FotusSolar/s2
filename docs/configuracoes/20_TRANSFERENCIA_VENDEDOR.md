@@ -1,6 +1,10 @@
-#### TRANSFERÊNCIA VENDEDOR [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/transferencia-vendedor)]
+[Voltar](./00_INDEX.md)
+---
 
-Formulário no Solaryum para transferência de todos os itens de um vendedor, alterando os status tanto do vendedor de origem quanto
+## TRANSFERÊNCIA VENDEDOR [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/transferencia-vendedor)]
+
+Formulário no Solaryum para transferência de todos os itens de um vendedor, alterando os status tanto do vendedor de
+origem quanto
 do vendedor de destino.
 O formulário contém os seguintes campos:
 

@@ -1,4 +1,7 @@
-#### COMBINAÇÃO DE KITS [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/combinacao-de-kits)]
+[Voltar](./00_INDEX.md)
+---
+
+## COMBINAÇÃO DE KITS [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/combinacao-de-kits)]
 
 `TODO: (avaliar funcionalidade da página)`
 
@@ -66,4 +69,5 @@ Parece uma página para gerenciar as combinações possíveis de kits. A página
         - Transformador
         - Bateria
         - Outro
-    - É permitido selecionar um produto de cada aba e no final abre-se um novo modal com um campo de texto livre "Fórmula", que possui botões de ajuda para compor um texto com variáveis e funções, que definirão a fórmula gerada.
+    - É permitido selecionar um produto de cada aba e no final abre-se um novo modal com um campo de texto livre "
+      Fórmula", que possui botões de ajuda para compor um texto com variáveis e funções, que definirão a fórmula gerada.

@@ -1,4 +1,7 @@
-#### FLUXOS DE TRABALHO [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/workflows)]
+[Voltar](./00_INDEX.md)
+---
+
+## FLUXOS DE TRABALHO [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/workflows)]
 
 Página no Solaryum para gerenciar fluxos de mensagens da aplicação.
 

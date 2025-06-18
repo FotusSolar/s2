@@ -1,8 +1,10 @@
-#### GESTÃO DE DESCONTOS [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/gestao-de-descontos)] 
+[Voltar](./00_INDEX.md)
+---
 
+## GESTÃO DE DESCONTOS [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/gestao-de-descontos)]
 
-
-Sistema de controle para definição de políticas de desconto no Solaryum, permitindo configurar limites e regras que garantem uniformidade nas negociações comerciais.
+Sistema de controle para definição de políticas de desconto no Solaryum, permitindo configurar limites e regras que
+garantem uniformidade nas negociações comerciais.
 
 No início da tela é exibido um quadro com o desconto máximo do usuário que está logado. Esse valor não interfere no
 formulário logo abaixo.

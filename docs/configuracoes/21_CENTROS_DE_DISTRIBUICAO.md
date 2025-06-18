@@ -1,4 +1,7 @@
-#### CENTROS DE DISTRIBUIÇÃO [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/centros-de-distribuicao)]
+[Voltar](./00_INDEX.md)
+---
+
+## CENTROS DE DISTRIBUIÇÃO [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/centros-de-distribuicao)]
 
 CRUD no Solaryum dos centros de distribuição. O formulário contém os seguintes campos:
 

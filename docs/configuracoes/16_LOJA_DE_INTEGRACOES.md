@@ -1,4 +1,7 @@
-#### LOJA DE INTEGRAÇÕES [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/loja-integracoes)]
+[Voltar](./00_INDEX.md)
+---
+
+## LOJA DE INTEGRAÇÕES [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/loja-integracoes)]
 
 Tela no Solaryum para ativação de integrações com terceiros, aplicando as credenciais necessárias para as integrações.
 

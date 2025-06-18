@@ -1,4 +1,7 @@
-#### PREMISSAS DA EMPRESA [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/premissas)]
+[Voltar](./00_INDEX.md)
+---
+
+## PREMISSAS DA EMPRESA [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/premissas)]
 
 Configurações globais do ERP
 

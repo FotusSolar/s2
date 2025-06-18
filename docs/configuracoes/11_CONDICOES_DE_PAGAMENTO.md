@@ -1,6 +1,10 @@
-#### CONDIÇÕES DE PAGAMENTO [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/condicoes-de-pagamento)]
+[Voltar](./00_INDEX.md)
+---
 
-Sistema no Solaryum para cadastro das condições de pagamento disponíveis para os integradores. O formulário contém os seguintes campos:
+## CONDIÇÕES DE PAGAMENTO [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/condicoes-de-pagamento)]
+
+Sistema no Solaryum para cadastro das condições de pagamento disponíveis para os integradores. O formulário contém os
+seguintes campos:
 
 - Descrição
 - Código ERP
