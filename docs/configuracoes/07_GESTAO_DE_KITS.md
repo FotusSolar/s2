@@ -1,4 +1,4 @@
-#### GESTÃO DE KITS
+#### GESTÃO DE KITS [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/gestao-de-kits)]
 
 `TODO: (avaliar funcionalidade da página)`
 

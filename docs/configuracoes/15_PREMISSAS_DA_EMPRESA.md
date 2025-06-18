@@ -1,4 +1,4 @@
-#### PREMISSAS DA EMPRESA
+#### PREMISSAS DA EMPRESA [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/premissas)]
 
 Configurações globais do ERP
 

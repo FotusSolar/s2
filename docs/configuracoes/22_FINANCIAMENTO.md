@@ -1,4 +1,4 @@
-#### FINANCIAMENTO
+#### FINANCIAMENTO [[geral](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/config-financiamento/geral) e [funil](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/config-financiamento/funil)]
 
 Tela de configuração de financiamento no Solaryum, com formulário contendo:
 

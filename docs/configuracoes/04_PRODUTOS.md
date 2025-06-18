@@ -1,4 +1,4 @@
-#### PRODUTOS
+#### PRODUTOS [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/produtos)]
 
 Sistema de cadastro dos produtos no Solaryum, com as seguintes informações:
 

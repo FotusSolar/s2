@@ -1,4 +1,4 @@
-#### TIMES (de vendas)
+#### TIMES (de vendas) [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/times)]
 
 Sistema para cadastro dos times de vendas no Solaryum, com as seguintes informações:
 

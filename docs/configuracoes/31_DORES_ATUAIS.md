@@ -1,4 +1,4 @@
-#### DORES ATUAIS
+#### DORES ATUAIS [[link]()]
 
 Esta seção documenta os problemas e desafios identificados pelos usuários do Solaryum, representando oportunidades de melhoria para versões futuras do sistema.
 

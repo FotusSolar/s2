@@ -1,4 +1,4 @@
-#### COMBINAÇÃO DE KITS
+#### COMBINAÇÃO DE KITS [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/combinacao-de-kits)]
 
 `TODO: (avaliar funcionalidade da página)`
 

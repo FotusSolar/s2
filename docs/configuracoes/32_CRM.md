@@ -1,8 +1,8 @@
-#### CRM
+#### CRM 
 
 CRUD no Solaryum para cadastro dos funis de venda, separados pelos submenus abaixo:
 
-FUNIS
+FUNIS [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/configuracoes-crm/funis)]
 
 - Descrição
 - Tipo de funil
@@ -25,7 +25,7 @@ FUNIS
                 - Ativos
                 - Expirados
 
-TIPOS DE ATIVIDADE
+TIPOS DE ATIVIDADE [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/configuracoes-crm/tipos-de-atividade)]
 
 - Descrição
 - Status
@@ -42,7 +42,7 @@ TIPOS DE ATIVIDADE
     - Adicionar responsáveis
         - [ modal com lista de usuários com checkboxes para seleção múltipla ]
 
-TAGS
+TAGS [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/configuracoes-crm/tags)]
 - Tag
 - Status
     - Ativo
@@ -52,7 +52,7 @@ TAGS
 - Cor
     - Color-picker para seleção de cor
 
-CAMPOS PERSONALIZADOS
+CAMPOS PERSONALIZADOS [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/configuracoes-crm/atributos)]
 - Descrição
 - Tipo
     - Texto

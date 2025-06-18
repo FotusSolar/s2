@@ -1,4 +1,4 @@
-#### PROMOÇÕES
+#### PROMOÇÕES [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/promocao)]
 
 Sistema no Solaryum para o cadastro de promoções, contendo os seguintes campos:
 

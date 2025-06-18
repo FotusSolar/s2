@@ -1,4 +1,4 @@
-#### USUÁRIOS
+#### USUÁRIOS [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/usuarios)]
 
 CRUD dos usuários do sistema no Solaryum, que podem ser:
 - gerentes

@@ -2,18 +2,18 @@
 
 Tabelas adicionais para implementação em locais diversos da aplicação.
 
-- Etapas
+- Etapas [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/etapas)]
     - [ lista de etapas com checkbox para seleção múltipla ]
-- Modelos de documento
+- Modelos de download [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/modelos-de-download)]
     - CRUD para cadastro do modelo, somente descrição no formulário.
     - Após cadastrado, exibido na lista botão para upload do arquivo
-- Status de orçamento
+- Status de orçamento [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/orc-status)]
     - CRUD, com formulário com campo descrição
-- Status de contato
+- Status de contato [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/contato-status)]
     - CRUD, com formulário com campo descrição
-- Status de repasse
+- Status de repasse [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/repasse-status)]
     - CRUD, com formulário com campo descrição
-- Motivos de perda
+- Motivos de perda [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/motivo-perda)]
     - CRUD
         - Descrição
         - Grupo
@@ -22,7 +22,7 @@ Tabelas adicionais para implementação em locais diversos da aplicação.
             - Estorno
             - Pagamento
             - Substituição de pedido pago
-- Tags de pedido
+- Tags de pedido [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/tags)]
     - CRUD
         - Tag
         - [ ] somente API
@@ -33,7 +33,7 @@ Tabelas adicionais para implementação em locais diversos da aplicação.
         - Tipo
             - Normal
             - Comprovante de pagamento
-- Classificação personalizada
+- Classificação personalizada [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/tabela-personalizada)]
     - CRUD
         - Tipo
             - Seleção única
@@ -49,14 +49,14 @@ Tabelas adicionais para implementação em locais diversos da aplicação.
             - Análise de desconto - conclusão negativa
             - Opções
                 - Formulário com campo "Descrição"
-- Classificação integrador
+- Classificação integrador [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/classificacao-integrador)]
     - CRUD
         - Imagem
         - Descrição
         - Desconto na tabela de frete (%)
         - [ ] Exibir menu de kit fechado
         -
-- Tipos de ocorrência
+- Tipos de ocorrência [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/ocorrencia-tipo)]
     - CRUD
         - Descrição
         - Setor
@@ -77,15 +77,15 @@ Tabelas adicionais para implementação em locais diversos da aplicação.
             - Baixa
             - Média
             - Alta
-- Setores
+- Setores [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/setores)]
     - CRUD, com formulário com campo descrição
-- Pendências
+- Pendências [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/pendencias)]
     - CRUD
         - Descrição
         - [ ] Ativo
         - Ícone
             - [ lista de ícones pré-cadastrados ]
-- Embalagem
+- Embalagem [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/embalagem)]
     - CRUD
         - Descrição
         - Tipo de embalagem
@@ -100,9 +100,9 @@ Tabelas adicionais para implementação em locais diversos da aplicação.
         - Comprimento (cm)
         - Margem de segurança (%)
         - Peso (Kg)
-- Grupo motivo de perda
+- Grupo motivo de perda [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/grupo_motivo_perda)]
     - CRUD, com formulário com campo descrição
-- Etapa da ocorrência
+- Etapa da ocorrência [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/etapa-ocorrencia)]
     - CRUD
         - Descrição
         - Status
@@ -116,7 +116,7 @@ Tabelas adicionais para implementação em locais diversos da aplicação.
         - Tipo de ocorrência
             - [ lista dinâmica a partir da seleção do setor ]
         - Tempo estimado (horas)
-- Etapas do rastreio
+- Etapas do rastreio [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/etapa-rastreio)]
     - CRUD
         - Descrição
         - Ícone
@@ -124,14 +124,14 @@ Tabelas adicionais para implementação em locais diversos da aplicação.
         - Status
             - Ativo
             - Bloqueado
-- Tipo de anexo
+- Tipo de anexo [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/geral/tipos-anexo)]
     - CRUD
         - Nome
         - Status
             - Ativo
             - Bloqueado
         - Descrição
-- Objetivo
+- Objetivo [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/geral/objetivos)]
     - CRUD
         - Nome
         - Situação

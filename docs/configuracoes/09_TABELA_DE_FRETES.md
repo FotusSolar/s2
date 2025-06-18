@@ -1,4 +1,4 @@
-#### TABELA DE FRETES
+#### TABELA DE FRETES [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/tabela-de-fretes)]
 
 Sistema no Solaryum para cadastro das tabelas de frete de acordo com a região e UF.
 

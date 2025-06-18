@@ -1,4 +1,4 @@
-#### VOUCHER GERAL
+#### VOUCHER GERAL [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/vouchers)]
 
 CRUD no Solaryum para criação de vouchers de promoção, contendo os campos:
 

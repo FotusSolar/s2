@@ -1,4 +1,4 @@
-#### FORNECEDORES DE ESTRUTURA
+#### FORNECEDORES DE ESTRUTURA [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/fornecedores-estrutura)]
 
 Sistema para cadastro dos fornecedores de estrutura no Solaryum para instalação dos kits
 
