@@ -1,4 +1,4 @@
-[Voltar](./00_INDEX.md)
+[Voltar](README.md)
 ---
 
 ## TABELA DE FRETES [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/tabela-de-fretes)]

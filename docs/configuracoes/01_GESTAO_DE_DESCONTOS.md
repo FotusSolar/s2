@@ -1,4 +1,4 @@
-[Voltar](./00_INDEX.md)
+[Voltar](README.md)
 ---
 
 ## GESTÃO DE DESCONTOS [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/gestao-de-descontos)]

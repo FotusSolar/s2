@@ -1,4 +1,4 @@
-[Voltar](./00_INDEX.md)
+[Voltar](README.md)
 ---
 
 ## CENTROS DE DISTRIBUIÇÃO [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/centros-de-distribuicao)]

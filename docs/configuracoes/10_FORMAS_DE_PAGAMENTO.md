@@ -1,4 +1,4 @@
-[Voltar](./00_INDEX.md)
+[Voltar](README.md)
 ---
 
 ## FORMAS DE PAGAMENTO [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/formas-de-pagamento)]

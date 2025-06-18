@@ -1,4 +1,4 @@
-[Voltar](./00_INDEX.md)
+[Voltar](README.md)
 ---
 
 ## MATÉRIAS E NOTÍCIAS [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/materia)]

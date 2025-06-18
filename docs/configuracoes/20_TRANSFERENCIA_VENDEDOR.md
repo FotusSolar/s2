@@ -1,4 +1,4 @@
-[Voltar](./00_INDEX.md)
+[Voltar](README.md)
 ---
 
 ## TRANSFERÊNCIA VENDEDOR [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/transferencia-vendedor)]

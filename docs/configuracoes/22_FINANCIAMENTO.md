@@ -1,4 +1,4 @@
-[Voltar](./00_INDEX.md)
+[Voltar](README.md)
 ---
 
 ## FINANCIAMENTO [[geral](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/config-financiamento/geral) e [funil](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/config-financiamento/funil)]

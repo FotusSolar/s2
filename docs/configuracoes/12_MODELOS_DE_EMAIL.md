@@ -1,4 +1,4 @@
-[Voltar](./00_INDEX.md)
+[Voltar](README.md)
 ---
 
 ## MODELOS DE E-MAIL [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/modelos-de-email)]

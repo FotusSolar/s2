@@ -1,4 +1,4 @@
-[Voltar](./00_INDEX.md)
+[Voltar](README.md)
 ---
 
 ## PRECIFICAÇÃO POR UF [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/precificacao-uf)]

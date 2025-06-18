@@ -1,4 +1,4 @@
-[Voltar](./00_INDEX.md)
+[Voltar](README.md)
 ---
 
 ## COMBINAÇÃO DE KITS [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/combinacao-de-kits)]
