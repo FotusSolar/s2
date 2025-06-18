@@ -1,0 +1,145 @@
+#### TABELAS ADICIONAIS
+
+Tabelas adicionais para implementação em locais diversos da aplicação.
+
+- Etapas
+    - [ lista de etapas com checkbox para seleção múltipla ]
+- Modelos de documento
+    - CRUD para cadastro do modelo, somente descrição no formulário.
+    - Após cadastrado, exibido na lista botão para upload do arquivo
+- Status de orçamento
+    - CRUD, com formulário com campo descrição
+- Status de contato
+    - CRUD, com formulário com campo descrição
+- Status de repasse
+    - CRUD, com formulário com campo descrição
+- Motivos de perda
+    - CRUD
+        - Descrição
+        - Grupo
+            - Alteração
+            - Desistência
+            - Estorno
+            - Pagamento
+            - Substituição de pedido pago
+- Tags de pedido
+    - CRUD
+        - Tag
+        - [ ] somente API
+        - Ícone
+            - [ lista de ícones pré-cadastrados ]
+        - Cor
+            - [ color picker ]
+        - Tipo
+            - Normal
+            - Comprovante de pagamento
+- Classificação personalizada
+    - CRUD
+        - Tipo
+            - Seleção única
+            - Seleção múltipla'
+            - Texto
+        - Nome da tabela personalizada
+        - Aplica-se para
+            - Integrador
+            - Pedido
+            - Produto
+            - Análise de desconto - solicitação
+            - Análise de desconto - conclusão positiva
+            - Análise de desconto - conclusão negativa
+            - Opções
+                - Formulário com campo "Descrição"
+- Classificação integrador
+    - CRUD
+        - Imagem
+        - Descrição
+        - Desconto na tabela de frete (%)
+        - [ ] Exibir menu de kit fechado
+        -
+- Tipos de ocorrência
+    - CRUD
+        - Descrição
+        - Setor
+            - Vendas
+            - SDR
+            - Backoffice
+            - ADM de vendas - Triagem
+            - Logística
+            - CX
+            - CS
+            - Suporte tecnico
+            - Adm de vendas - pendência
+            - Adm de vendas - financeiro
+            - Adm de vendas - conferência
+            - Adm de vendas - outros
+        - Prioridade
+            - Sem prioridade
+            - Baixa
+            - Média
+            - Alta
+- Setores
+    - CRUD, com formulário com campo descrição
+- Pendências
+    - CRUD
+        - Descrição
+        - [ ] Ativo
+        - Ícone
+            - [ lista de ícones pré-cadastrados ]
+- Embalagem
+    - CRUD
+        - Descrição
+        - Tipo de embalagem
+            - Pallet
+            - Caixa
+            - Cilindro
+        - Status
+            - Ativo
+            - Bloqueado
+        - Largura (cm)
+        - Altura máxima (cm)
+        - Comprimento (cm)
+        - Margem de segurança (%)
+        - Peso (Kg)
+- Grupo motivo de perda
+    - CRUD, com formulário com campo descrição
+- Etapa da ocorrência
+    - CRUD
+        - Descrição
+        - Status
+            - Ativo
+            - Bloqueado
+        - Enviar e-mail
+            - Sim
+            - Não
+        - Setor
+            - [ lista de setores ]
+        - Tipo de ocorrência
+            - [ lista dinâmica a partir da seleção do setor ]
+        - Tempo estimado (horas)
+- Etapas do rastreio
+    - CRUD
+        - Descrição
+        - Ícone
+            - [ lista de ícones pré-cadastrados ]
+        - Status
+            - Ativo
+            - Bloqueado
+- Tipo de anexo
+    - CRUD
+        - Nome
+        - Status
+            - Ativo
+            - Bloqueado
+        - Descrição
+- Objetivo
+    - CRUD
+        - Nome
+        - Situação
+            - Ativo
+            - Bloqueado
+        - Descrição
+        - Tipo
+            - Anexo
+            - Checklist
+
+

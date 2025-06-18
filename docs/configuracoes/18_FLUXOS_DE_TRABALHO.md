@@ -1,0 +1,170 @@
+#### FLUXOS DE TRABALHO
+
+Página no Solaryum para gerenciar fluxos de mensagens da aplicação.
+
+O formulário para registro do fluxo contém os seguintes campos:
+
+- Nome
+- Descrição
+- Quando
+    - Atividade
+        - Concluir
+            - Atividade
+                - Email
+                - Ligação
+                - Orçamento
+                - Retorno
+                - Reunião
+                - Visita
+            - Efeito
+                - Qualquer
+                - Negativo
+                - Positivo
+                - Neutro
+        - Criar
+            - Atividade
+                - Bate-papo
+                - Email
+                - Ligação
+                - Orçamento
+                - Retorno
+                - Reunião
+                - Visita
+    - Integrador
+        - Criar
+        - Trocar de vendedor
+    - Login
+        - Integrador
+    - Oportunidade
+        - Encerrar com efeito negativo
+        - Encerrar com efeito positivo
+        - Entrar na etapa
+            - Funil
+                - [ lista de funis ]
+            - Etapa
+                - [ lista de etapas do funil selecionado ]
+        - Entrar na etapa
+            - Funil
+                - [ lista de funis ]
+            - Etapa
+                - [ lista de etapas do funil selecionado ]
+        - Sair da etapa
+    - Orçamento
+        - Criar
+    - Pedido
+        - Criar
+    - Temporal
+        - A cada hora
+        - Diariamente
+        - Semanalmente
+        - Mensalmente
+- E se (opcional)
+    - Testa alguma condição correspondente
+        - Condição
+            - Oportunidade
+                - Etapa
+                - Situação
+        - Status dos cards
+            - Aberta
+            - Perdida
+            - Ganha
+            - Congelada
+            - Excluída
+- Então faça
+    - Atividade
+        - Criar
+            - Título
+            - Atividade
+                - Bate-papo
+                - Email
+                - Ligação
+                - Orçamento
+                - Retorno
+                - Reunião
+                - Visita
+            - Responsável
+                - [ lista de times com hierarquia ]
+            - Inicia em (dias)
+            - Hora
+            - Duração
+                - 5 min
+                - 15 min
+                - 30 min
+                - 1h
+                - 2h
+                - 4h
+                - 7h
+                - 8h
+            - Descrição
+            - Anotação
+            - [ ] Única do mesmo tipo
+        - Enviar Convite
+            - Para
+                - Vendedor
+                - Integrador
+                - Ambos
+            - Assunto
+        - Enviar resumo
+            - Funil atual
+                - [ lista de funis ]
+            - Etapa atual
+                - [ lista de etapas do funil selecionado ]
+            - Proprietário atual
+                - Lista de times com hierarquia
+            - Dias da semana para envio
+                - Múltipla seleção de dias da semana
+            - Assunto
+    - Integrador
+        - Alterar Vendedor
+            - Dono
+                - [ lista de times com hierarquia ]
+    - Notificação
+        - Enviar e-mail
+            - Modelo
+                - [ lista de modelos ]
+            - De
+                - [ lista de times com hierarquia ]
+            - Para
+                - [ lista de times com hierarquia ]
+        - Enviar notificação
+            - Para
+                - [ lista de times com hierarquia ]
+            - Mensagem
+    - Oportunidade
+        - Alterar etapa
+            - Funil
+                - [ lista de funis ]
+            - Etapa
+                - [ lista de etapas do funil selecionado ]
+        - Buscar
+            - Tipo de busca
+                - Primeira
+                - Última
+                - Todos
+            - Data
+            - Tempo
+            - Funil atual
+                - [ lista de funis ]
+            - Etapa atual
+                - [ lista de etapas do funil selecionado ]
+            - Proprietário atual
+                - [ lista de times com hierarquia ]
+        - Criar
+            - Título
+            - Dono
+                - [ lista de times com hierarquia ]
+            - Funil
+                - [ lista de funis ]
+            - Etapa
+                - [ lista de etapas do funil selecionado ]
+            - [ ] Única nesse funil
+        - Duplicar
+            - Dono
+                - [ lista de times com hierarquia ]
+            - Funil
+                - [ lista de funis ]
+            - Etapa
+                - [ lista de etapas do funil selecionado ]
+            - [ ] Única nesse funil
+            - [ ] Copiar atividades
+            - [ ] Zerar valor
