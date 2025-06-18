@@ -1,7 +1,7 @@
 [Voltar](./00_INDEX.md)
 ---
 
-## FORMAS DE PAGAMENTO [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/formas-de-pagamento)]
+## FORMAS DE PAGAMENTO [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/formas-de-pagamento)]
 
 Módulo financeiro configuração e gerenciamento dos métodos de pagamento aceitos. Este sistema permite estabelecer
 múltiplos canais de recebimento com visibilidade direta ao ERP corporativo. A plataforma possibilita configurar diversas

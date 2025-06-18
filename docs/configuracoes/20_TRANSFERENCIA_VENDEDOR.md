@@ -1,7 +1,7 @@
 [Voltar](./00_INDEX.md)
 ---
 
-## TRANSFERÊNCIA VENDEDOR [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/transferencia-vendedor)]
+## TRANSFERÊNCIA VENDEDOR [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/transferencia-vendedor)]
 
 Ferramenta administrativa que permite a reorganização dinâmica da carteira comercial e redistribuição de integradores
 entre os vendedores. Este módulo facilita a realocação em massa de clientes e oportunidades durante reestruturações de

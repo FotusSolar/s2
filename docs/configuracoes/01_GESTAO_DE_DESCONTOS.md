@@ -1,7 +1,7 @@
 [Voltar](./00_INDEX.md)
 ---
 
-## GESTÃO DE DESCONTOS [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/gestao-de-descontos)]
+## GESTÃO DE DESCONTOS [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/gestao-de-descontos)]
 
 Módulo para estabelecimento de políticas comerciais que otimizam a rentabilidade nas negociações
 com integradores. Este sistema permite definir margens de desconto personalizadas por

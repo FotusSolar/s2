@@ -1,7 +1,7 @@
 [Voltar](./00_INDEX.md)
 ---
 
-## PREMISSAS DA EMPRESA [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/premissas)]
+## PREMISSAS DA EMPRESA [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/premissas)]
 
 Painel central de configurações que define os parâmetros de operação. Este módulo estabelece as diretrizes operacionais,
 comerciais e financeiras que regem o funcionamento da plataforma, determinando prazos de negociação, políticas de

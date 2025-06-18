@@ -1,7 +1,7 @@
 [Voltar](./00_INDEX.md)
 ---
 
-## COMBINAÇÃO DE KITS [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/combinacao-de-kits)]
+## COMBINAÇÃO DE KITS [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/combinacao-de-kits)]
 
 `TODO: (avaliar funcionalidade da página)`
 

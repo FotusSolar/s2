@@ -10,7 +10,7 @@ tags. A plataforma oferece uma visão do pipeline comercial com controle granula
 permitindo segmentação inteligente de leads, automatização de follow-ups e análises preditivas de conversão que
 potencializam a eficiência da equipe de vendas.
 
-FUNIS [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/configuracoes-crm/funis)]
+FUNIS [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/configuracoes-crm/funis)]
 
 - Descrição
 - Tipo de funil
@@ -34,7 +34,7 @@ FUNIS [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/configurac
                 - Expirados
 
 TIPOS DE
-ATIVIDADE [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/configuracoes-crm/tipos-de-atividade)]
+ATIVIDADE [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/configuracoes-crm/tipos-de-atividade)]
 
 - Descrição
 - Status
@@ -51,7 +51,7 @@ ATIVIDADE [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/config
     - Adicionar responsáveis
         - [ modal com lista de usuários com checkboxes para seleção múltipla ]
 
-TAGS [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/configuracoes-crm/tags)]
+TAGS [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/configuracoes-crm/tags)]
 
 - Tag
 - Status
@@ -62,7 +62,7 @@ TAGS [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/configuraco
 - Cor
     - Color-picker para seleção de cor
 
-CAMPOS PERSONALIZADOS [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/configuracoes-crm/atributos)]
+CAMPOS PERSONALIZADOS [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/configuracoes-crm/atributos)]
 
 - Descrição
 - Tipo

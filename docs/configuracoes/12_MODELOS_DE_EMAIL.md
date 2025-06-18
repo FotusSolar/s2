@@ -1,7 +1,7 @@
 [Voltar](./00_INDEX.md)
 ---
 
-## MODELOS DE E-MAIL [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/modelos-de-email)]
+## MODELOS DE E-MAIL [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/modelos-de-email)]
 
 Ferramenta de comunicação empresarial que permite padronizar e personalizar a comunicação eletrônica com integradores e
 parceiros. Este módulo disponibiliza um sistema de templates para diferentes momentos do funil de vendas e ciclo de

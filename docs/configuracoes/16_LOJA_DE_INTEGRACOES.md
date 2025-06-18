@@ -1,7 +1,7 @@
 [Voltar](./00_INDEX.md)
 ---
 
-## LOJA DE INTEGRAÇÕES [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/loja-integracoes)]
+## LOJA DE INTEGRAÇÕES [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/loja-integracoes)]
 
 Hub de interoperabilidade que centraliza a conexão da plataforma com sistemas externos para a operação. Este módulo
 oferece uma interface unificada para ativação e configuração de integrações com parceiros estratégicos, especialmente

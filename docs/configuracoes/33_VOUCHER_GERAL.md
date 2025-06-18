@@ -1,7 +1,7 @@
 [Voltar](./00_INDEX.md)
 ---
 
-## VOUCHER GERAL [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/vouchers)]
+## VOUCHER GERAL [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/vouchers)]
 
 Ferramenta promocional que possibilita implementar estratégias comerciais personalizadas através de códigos de desconto.
 Este módulo permite criar campanhas temporárias e direcionadas que estimulam a conversão de vendas em momentos

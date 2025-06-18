@@ -1,7 +1,7 @@
 [Voltar](./00_INDEX.md)
 ---
 
-## USUÁRIOS [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/usuarios)]
+## USUÁRIOS [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/usuarios)]
 
 Sistema centralizado de gestão de acesso e controle de permissões que permite criar, configurar e administrar contas
 para todos os colaboradores que interagem com a plataforma. Este módulo estabelece a estrutura hierárquica operacional

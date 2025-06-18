@@ -1,7 +1,7 @@
 [Voltar](./00_INDEX.md)
 ---
 
-## FORNECEDORES DE ESTRUTURA [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/fornecedores-estrutura)]
+## FORNECEDORES DE ESTRUTURA [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/fornecedores-estrutura)]
 
 Módulo para gerenciamento da cadeia de fornecimento de estruturas de fixação e suporte para sistemas fotovoltaicos. Esta
 interface permite criar e manter um catálogo de fabricantes de estruturas metálicas e componentes de montagem. A

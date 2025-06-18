@@ -1,7 +1,7 @@
 [Voltar](./00_INDEX.md)
 ---
 
-## MATÉRIAS E NOTÍCIAS [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/materia)]
+## MATÉRIAS E NOTÍCIAS [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/materia)]
 
 Centro de comunicação que centraliza conteúdo informativo e educacional para apoiar integradores. Este módulo permite
 compartilhar atualizações setoriais, tendências tecnológicas, mudanças regulatórias e notícias relevantes que impactam o

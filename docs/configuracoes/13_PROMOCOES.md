@@ -1,7 +1,7 @@
 [Voltar](./00_INDEX.md)
 ---
 
-## PROMOÇÕES [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/promocao)]
+## PROMOÇÕES [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/promocao)]
 
 Interface de marketing que possibilita criar, gerenciar e segmentar campanhas promocionais específicas para diferentes
 perfis de integradores. Este módulo permite implementar ações comerciais temporárias e segmentação. A plataforma

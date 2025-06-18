@@ -1,7 +1,7 @@
 [Voltar](./00_INDEX.md)
 ---
 
-## PRECIFICAÇÃO POR UF [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/precificacao-uf)]
+## PRECIFICAÇÃO POR UF [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/precificacao-uf)]
 
 Sistema de regionalização comercial que permite implementar estratégias de preço territorialmente diferenciadas. Este
 módulo possibilita ajustes percentuais automáticos nos valores de equipamentos e serviços com base na localização

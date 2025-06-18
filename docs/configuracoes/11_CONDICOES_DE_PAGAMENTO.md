@@ -1,7 +1,7 @@
 [Voltar](./00_INDEX.md)
 ---
 
-## CONDIÇÕES DE PAGAMENTO [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/condicoes-de-pagamento)]
+## CONDIÇÕES DE PAGAMENTO [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/condicoes-de-pagamento)]
 
 Sistema de parametrização financeira que possibilita definir políticas de parcelamento adaptadas ao ciclo de vendas do
 setor. Esta interface permite estabelecer múltiplas modalidades de fluxo de caixa com diferentes configurações de prazo,

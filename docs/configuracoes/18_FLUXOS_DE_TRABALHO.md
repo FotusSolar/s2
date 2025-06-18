@@ -1,7 +1,7 @@
 [Voltar](./00_INDEX.md)
 ---
 
-## FLUXOS DE TRABALHO [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/workflows)]
+## FLUXOS DE TRABALHO [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/workflows)]
 
 Motor de automação de processos que permite definir gatilhos e ações padronizadas para momentos-chave da jornada do
 integrador. Este módulo oferece ambiente visual de configuração de fluxos de comunicação, notificações e tarefas

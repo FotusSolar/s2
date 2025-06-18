@@ -9,18 +9,18 @@ nomenclaturas, categorias e classificações conforme suas necessidades operacio
 destas tabelas de apoio é essencial para garantir a flexibilidade do sistema, possibilitando adaptações às
 particularidades do processo comercial da empresa sem necessidade de desenvolvimento adicional.
 
-- Etapas [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/etapas)]
+- Etapas [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/etapas)]
     - [ lista de etapas com checkbox para seleção múltipla ]
-- Modelos de download [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/modelos-de-download)]
+- Modelos de download [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/modelos-de-download)]
     - CRUD para cadastro do modelo, somente descrição no formulário.
     - Após cadastrado, exibido na lista botão para upload do arquivo
-- Status de orçamento [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/orc-status)]
+- Status de orçamento [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/orc-status)]
     - CRUD, com formulário com campo descrição
-- Status de contato [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/contato-status)]
+- Status de contato [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/contato-status)]
     - CRUD, com formulário com campo descrição
-- Status de repasse [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/repasse-status)]
+- Status de repasse [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/repasse-status)]
     - CRUD, com formulário com campo descrição
-- Motivos de perda [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/motivo-perda)]
+- Motivos de perda [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/motivo-perda)]
     - CRUD
         - Descrição
         - Grupo
@@ -29,7 +29,7 @@ particularidades do processo comercial da empresa sem necessidade de desenvolvim
             - Estorno
             - Pagamento
             - Substituição de pedido pago
-- Tags de pedido [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/tags)]
+- Tags de pedido [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/tags)]
     - CRUD
         - Tag
         - [ ] somente API
@@ -40,7 +40,7 @@ particularidades do processo comercial da empresa sem necessidade de desenvolvim
         - Tipo
             - Normal
             - Comprovante de pagamento
-- Classificação personalizada [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/tabela-personalizada)]
+- Classificação personalizada [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/tabela-personalizada)]
     - CRUD
         - Tipo
             - Seleção única
@@ -56,14 +56,14 @@ particularidades do processo comercial da empresa sem necessidade de desenvolvim
             - Análise de desconto - conclusão negativa
             - Opções
                 - Formulário com campo "Descrição"
-- Classificação integrador [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/classificacao-integrador)]
+- Classificação integrador [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/classificacao-integrador)]
     - CRUD
         - Imagem
         - Descrição
         - Desconto na tabela de frete (%)
         - [ ] Exibir menu de kit fechado
         -
-- Tipos de ocorrência [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/ocorrencia-tipo)]
+- Tipos de ocorrência [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/ocorrencia-tipo)]
     - CRUD
         - Descrição
         - Setor
@@ -84,15 +84,15 @@ particularidades do processo comercial da empresa sem necessidade de desenvolvim
             - Baixa
             - Média
             - Alta
-- Setores [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/setores)]
+- Setores [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/setores)]
     - CRUD, com formulário com campo descrição
-- Pendências [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/pendencias)]
+- Pendências [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/pendencias)]
     - CRUD
         - Descrição
         - [ ] Ativo
         - Ícone
             - [ lista de ícones pré-cadastrados ]
-- Embalagem [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/embalagem)]
+- Embalagem [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/embalagem)]
     - CRUD
         - Descrição
         - Tipo de embalagem
@@ -107,9 +107,9 @@ particularidades do processo comercial da empresa sem necessidade de desenvolvim
         - Comprimento (cm)
         - Margem de segurança (%)
         - Peso (Kg)
-- Grupo motivo de perda [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/grupo_motivo_perda)]
+- Grupo motivo de perda [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/grupo_motivo_perda)]
     - CRUD, com formulário com campo descrição
-- Etapa da ocorrência [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/etapa-ocorrencia)]
+- Etapa da ocorrência [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/etapa-ocorrencia)]
     - CRUD
         - Descrição
         - Status
@@ -123,7 +123,7 @@ particularidades do processo comercial da empresa sem necessidade de desenvolvim
         - Tipo de ocorrência
             - [ lista dinâmica a partir da seleção do setor ]
         - Tempo estimado (horas)
-- Etapas do rastreio [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/etapa-rastreio)]
+- Etapas do rastreio [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/etapa-rastreio)]
     - CRUD
         - Descrição
         - Ícone
@@ -131,14 +131,14 @@ particularidades do processo comercial da empresa sem necessidade de desenvolvim
         - Status
             - Ativo
             - Bloqueado
-- Tipo de anexo [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/geral/tipos-anexo)]
+- Tipo de anexo [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/geral/tipos-anexo)]
     - CRUD
         - Nome
         - Status
             - Ativo
             - Bloqueado
         - Descrição
-- Objetivo [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/geral/objetivos)]
+- Objetivo [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/geral/objetivos)]
     - CRUD
         - Nome
         - Situação

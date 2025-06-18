@@ -1,7 +1,7 @@
 [Voltar](./00_INDEX.md)
 ---
 
-## GESTÃO DE KITS [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/gestao-de-kits)]
+## GESTÃO DE KITS [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/gestao-de-kits)]
 
 `TODO: (avaliar funcionalidade da página)`
 

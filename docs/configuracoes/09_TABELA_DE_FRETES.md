@@ -1,7 +1,7 @@
 [Voltar](./00_INDEX.md)
 ---
 
-## TABELA DE FRETES [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/tabela-de-fretes)]
+## TABELA DE FRETES [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/tabela-de-fretes)]
 
 Sistema de gestão logística para registro dos custos e prazos de transporte de equipamentos fotovoltaicos. Este módulo
 permite configurar regras personalizadas de frete baseadas em segmentação geográfica com granularidade até nível

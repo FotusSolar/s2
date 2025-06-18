@@ -1,7 +1,7 @@
 [Voltar](./00_INDEX.md)
 ---
 
-## CENTROS DE DISTRIBUIÇÃO [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/centros-de-distribuicao)]
+## CENTROS DE DISTRIBUIÇÃO [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/centros-de-distribuicao)]
 
 Sistema de gestão logística que permite cadastrar e administrar suas unidades físicas de armazenamento e despacho de
 equipamentos. Este módulo viabiliza a criação de uma rede descentralizada de pontos de estoque, otimizada

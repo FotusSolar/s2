@@ -1,7 +1,7 @@
 [Voltar](./00_INDEX.md)
 ---
 
-## PRODUTOS [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/produtos)]
+## PRODUTOS [[solaryum](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/produtos)]
 
 Catálogo digital completo para gerenciamento do portfólio de equipamentos fotovoltaicos. Este módulo permite registrar e
 administrar toda a linha de produtos para energia solar - desde módulos e inversores até estruturas e componentes
