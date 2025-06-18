@@ -11,7 +11,7 @@ Este diretório contém a documentação detalhada e aprimorada da seção "Conf
 4. [Promoções](./13_PROMOCOES.md) - Campanhas comerciais e ofertas especiais
 5. [Precificação por UF](./19_PRECIFICACAO_POR_UF.md) - Ajustes regionais de preços por estado
 6. [Financiamento](./22_FINANCIAMENTO.md) - Gestão de operações de crédito para projetos solares
-7. [Voucher Geral](./33_VOUCHER_GERAL.md) - Códigos promocionais para descontos em pedidos
+7. ~~[Voucher Geral](./33_VOUCHER_GERAL.md) - Códigos promocionais para descontos em pedidos~~
 
 ### Gestão de Produtos e Equipamentos
 8. [Produtos](./04_PRODUTOS.md) - Cadastro completo de equipamentos fotovoltaicos
@@ -20,7 +20,7 @@ Este diretório contém a documentação detalhada e aprimorada da seção "Conf
 11. [Gestão de Kits](./07_GESTAO_DE_KITS.md) - Composição de sistemas fotovoltaicos completos
 12. [Combinação de Kits](./08_COMBINACAO_DE_KITS.md) - Regras para combinações de equipamentos
 13. [Tabela de Fretes](./09_TABELA_DE_FRETES.md) - Configuração de custos logísticos
-14. [Loja de Produtos](./17_LOJA_DE_PRODUTOS.md) - E-commerce B2B para integradores
+14. ~~[Loja de Produtos](./17_LOJA_DE_PRODUTOS.md) - E-commerce B2B para integradores~~
 
 ### Gestão de Usuários e Processos
 15. [Times de Vendas](./03_TIMES_DE_VENDAS.md) - Estrutura organizacional da equipe comercial
@@ -28,17 +28,17 @@ Este diretório contém a documentação detalhada e aprimorada da seção "Conf
 17. [Usuários](./23_USUARIOS.md) - Gerenciamento de acesso ao sistema
 
 ### Gestão de Vendas e Relacionamento
-18. [CRM](./32_CRM.md) - Funis de venda e processo comercial
+18. ~~[CRM](./32_CRM.md) - Funis de venda e processo comercial~~
 
 ### Documentação e Comunicação
 19. [Anexos](./02_ANEXOS.md) - Gerenciamento de documentos no sistema
-20. [Modelos de Email](./12_MODELOS_DE_EMAIL.md) - Templates de comunicação eletrônica
+20. ~~[Modelos de Email](./12_MODELOS_DE_EMAIL.md) - Templates de comunicação eletrônica~~
 21. [Matérias e Notícias](./14_MATERIAS_E_NOTICIAS.md) - Conteúdo informativo para integradores
 
 ### Configurações Técnicas e Institucionais
 22. [Premissas da Empresa](./15_PREMISSAS_DA_EMPRESA.md) - Parâmetros fundamentais de negócio
 23. [Loja de Integrações](./16_LOJA_DE_INTEGRACOES.md) - Conexões com sistemas externos
-24. [Fluxos de Trabalho](./18_FLUXOS_DE_TRABALHO.md) - Automações de processos comerciais
+24. ~~[Fluxos de Trabalho](./18_FLUXOS_DE_TRABALHO.md) - Automações de processos comerciais~~
 25. [Centros de Distribuição](./21_CENTROS_DE_DISTRIBUICAO.md) - Unidades logísticas da empresa
 26. [Tabelas Adicionais](./34_TABELAS_ADICIONAIS.md) - Cruds para tabelas auxiliares do sistema
 
