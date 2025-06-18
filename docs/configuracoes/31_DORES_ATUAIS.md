@@ -1,10 +1,13 @@
 [Voltar](./00_INDEX.md)
 ---
 
-## DORES ATUAIS [[link]()]
+## DORES ATUAIS
 
-Esta seção documenta os problemas e desafios identificados pelos usuários do Solaryum, representando oportunidades de
-melhoria para versões futuras do sistema.
+Desafios operacionais e necessidades não atendidas. Esta compilação estruturada representa um mapa de oportunidades para
+a evolução contínua do sistema, priorizando ajustes e desenvolvimentos que impactam diretamente na eficiência dos
+processos e satisfação dos usuários. A documentação sistemática destas lacunas funcionais permite o planejamento
+coordenado de releases futuros, garantindo que o desenvolvimento da plataforma esteja sempre alinhado às necessidades
+reais da operação da distribuidora fotovoltaica e seus integradores.
 
 - Dar permissão ao backoffice para:
     - cancelar um pedido em qualquer etapa

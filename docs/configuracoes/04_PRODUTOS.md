@@ -3,7 +3,10 @@
 
 ## PRODUTOS [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/produtos)]
 
-Sistema de cadastro dos produtos no Solaryum, com as seguintes informações:
+Catálogo digital completo para gerenciamento do portfólio de equipamentos fotovoltaicos. Este módulo permite registrar e
+administrar toda a linha de produtos para energia solar - desde módulos e inversores até estruturas e componentes
+auxiliares - com especificações técnicas, dados de performance e condições de garantia. A categorização por tipo de
+equipamento facilita configurações corretas e garante compatibilidade entre componentes.
 
 - Foto
 - Código de barras (GTINS)

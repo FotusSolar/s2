@@ -3,7 +3,10 @@
 
 ## PROMOÇÕES [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/promocao)]
 
-Sistema no Solaryum para o cadastro de promoções, contendo os seguintes campos:
+Interface de marketing que possibilita criar, gerenciar e segmentar campanhas promocionais específicas para diferentes
+perfis de integradores. Este módulo permite implementar ações comerciais temporárias e segmentação. A plataforma
+facilita a associação de kits promocionais a condições especiais de preço e pagamento, com controle de vigência e
+visibilidade.
 
 - Imagem
 - Descrição

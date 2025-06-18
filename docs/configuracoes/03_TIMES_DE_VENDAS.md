@@ -3,7 +3,10 @@
 
 ## TIMES (de vendas) [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/times)]
 
-Sistema para cadastro dos times de vendas no Solaryum, com as seguintes informações:
+Estrutura organizacional hierárquica que permite a definição e gestão de equipes comerciais com níveis de visibilidade e
+permissões distintas. Este módulo implementa uma arquitetura de supervisão que otimiza a administração de carteiras de
+clientes, alocação de integradores e acompanhamento de performance por territórios ou especialidades técnicas,
+fundamental para estratégias de expansão e penetração de mercado.
 
 - Nome
 - Permissão para ver o mesmo nível

@@ -3,8 +3,10 @@
 
 ## GESTÃO DE DESCONTOS [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/gestao-de-descontos)]
 
-Sistema de controle para definição de políticas de desconto no Solaryum, permitindo configurar limites e regras que
-garantem uniformidade nas negociações comerciais.
+Módulo para estabelecimento de políticas comerciais que otimizam a rentabilidade nas negociações
+com integradores. Este sistema permite definir margens de desconto personalizadas por
+perfil de integrador, região geográfica e hierarquia comercial A ferramenta apresenta uma visão clara dos limites de
+desconto por usuário e possibilita aplicação de regras em massa.
 
 No início da tela é exibido um quadro com o desconto máximo do usuário que está logado. Esse valor não interfere no
 formulário logo abaixo.

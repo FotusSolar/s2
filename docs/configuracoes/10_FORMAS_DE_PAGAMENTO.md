@@ -3,8 +3,10 @@
 
 ## FORMAS DE PAGAMENTO [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/formas-de-pagamento)]
 
-Sistema no Solaryum para cadastro das formas de pagamento disponíveis para os integradores. O formulário contém os
-seguintes campos:
+Módulo financeiro configuração e gerenciamento dos métodos de pagamento aceitos. Este sistema permite estabelecer
+múltiplos canais de recebimento com visibilidade direta ao ERP corporativo. A plataforma possibilita configurar diversas
+modalidades como boletos, transferências bancárias, cartões e financiamentos específicos para energia solar, com opções
+de parcelamento e integração com gateways de pagamento.
 
 - Descrição
 - Código ERP

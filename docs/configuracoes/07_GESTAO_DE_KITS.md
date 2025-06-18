@@ -5,7 +5,11 @@
 
 `TODO: (avaliar funcionalidade da página)`
 
-A página no Solaryum contém as abas "Criar novos kits" e "Editar kits criados". Aparentemente não usada no momento.
+Sistema para configuração e gerenciamento de kits fotovoltaicos completos, permitindo criar combinações otimizadas de
+equipamentos compatíveis entre si. Esta ferramenta possibilita a padronização de soluções pré-configuradas que atendem
+diferentes faixas de consumo energético, condições climáticas e limitações estruturais, acelerando o processo de venda
+ao oferecer pacotes técnicos validados e comercialmente competitivos. A interface facilita a criação de kits baseados na
+potência desejada, eficiência de componentes e disponibilidade de estoque atual.
 
 - Criar novos kits
     - Painel

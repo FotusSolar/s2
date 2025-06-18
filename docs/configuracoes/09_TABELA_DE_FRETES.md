@@ -3,7 +3,11 @@
 
 ## TABELA DE FRETES [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/tabela-de-fretes)]
 
-Sistema no Solaryum para cadastro das tabelas de frete de acordo com a região e UF.
+Sistema de gestão logística para registro dos custos e prazos de transporte de equipamentos fotovoltaicos. Este módulo
+permite configurar regras personalizadas de frete baseadas em segmentação geográfica com granularidade até nível
+municipal. A plataforma gerencia interações com transportadoras homologadas, definindo SLAs de entrega, coleta e
+despacho por território, fundamental para previsibilidade de prazos e cálculos automáticos de custos logísticos em
+orçamentos.
 
 Para cadastrar uma nova tabela, deve-se preencher os campos:
 

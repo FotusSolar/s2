@@ -3,7 +3,12 @@
 
 ## FLUXOS DE TRABALHO [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/workflows)]
 
-Página no Solaryum para gerenciar fluxos de mensagens da aplicação.
+Motor de automação de processos que permite definir gatilhos e ações padronizadas para momentos-chave da jornada do
+integrador. Este módulo oferece ambiente visual de configuração de fluxos de comunicação, notificações e tarefas
+automáticas que são disparadas em resposta a eventos específicos do sistema. A ferramenta facilita a implementação de
+protocolos operacionais consistentes, eliminando tarefas manuais repetitivas e garantindo que todas as etapas críticas
+do processo comercial e administrativo sejam executadas com precisão e tempestividade, melhorando a experiência do
+cliente e reduzindo falhas humanas.
 
 O formulário para registro do fluxo contém os seguintes campos:
 

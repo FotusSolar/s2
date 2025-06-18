@@ -3,7 +3,11 @@
 
 ## PREMISSAS DA EMPRESA [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/premissas)]
 
-Configurações globais do ERP
+Painel central de configurações que define os parâmetros de operação. Este módulo estabelece as diretrizes operacionais,
+comerciais e financeiras que regem o funcionamento da plataforma, determinando prazos de negociação, políticas de
+preços, margens de lucro e regras de relacionamento com integradores. As premissas configuradas impactam diretamente no
+comportamento sistêmico da aplicação e nos cálculos automáticos de valores, servindo como centro de comando para
+implantação de políticas corporativas e estratégias.
 
 **Aba GERAL**
 

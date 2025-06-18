@@ -3,7 +3,12 @@
 
 ## USUÁRIOS [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/usuarios)]
 
-CRUD dos usuários do sistema no Solaryum, que podem ser:
+Sistema centralizado de gestão de acesso e controle de permissões que permite criar, configurar e administrar contas
+para todos os colaboradores que interagem com a plataforma. Este módulo estabelece a estrutura hierárquica operacional
+com definição granular de funções, responsabilidades e níveis de autorização para cada perfil de usuário, garantindo
+segurança e rastreabilidade em todas as ações realizadas no sistema. A interface possibilita a configuração precisa de
+permissões departamentais que refletem a estrutura organizacional da distribuidora, com segregação de funções entre
+equipes comerciais, administrativas e financeiras.
 
 - gerentes
 - supervisores de time

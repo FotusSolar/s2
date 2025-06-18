@@ -3,7 +3,11 @@
 
 ## TABELAS ADICIONAIS
 
-Tabelas adicionais para implementação em locais diversos da aplicação.
+Conjunto de cadastros auxiliares que fornecem estruturas de dados para o funcionamento integrado da plataforma. Este
+módulo centraliza a gestão de tabelas de referência utilizadas em diversos pontos do sistema, permitindo personalizar
+nomenclaturas, categorias e classificações conforme suas necessidades operacionais específicas. A configuração adequada
+destas tabelas de apoio é essencial para garantir a flexibilidade do sistema, possibilitando adaptações às
+particularidades do processo comercial da empresa sem necessidade de desenvolvimento adicional.
 
 - Etapas [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/etapas)]
     - [ lista de etapas com checkbox para seleção múltipla ]
@@ -144,5 +148,3 @@ Tabelas adicionais para implementação em locais diversos da aplicação.
         - Tipo
             - Anexo
             - Checklist
-
-

@@ -3,8 +3,10 @@
 
 ## CONDIÇÕES DE PAGAMENTO [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/condicoes-de-pagamento)]
 
-Sistema no Solaryum para cadastro das condições de pagamento disponíveis para os integradores. O formulário contém os
-seguintes campos:
+Sistema de parametrização financeira que possibilita definir políticas de parcelamento adaptadas ao ciclo de vendas do
+setor. Esta interface permite estabelecer múltiplas modalidades de fluxo de caixa com diferentes configurações de prazo,
+número de parcelas e taxas aplicáveis. As condições configuradas permitem viabilizar projetos de diferentes portes e
+garantir competitividade em um mercado onde as facilidades de pagamento influenciam diretamente na decisão de compra.
 
 - Descrição
 - Código ERP

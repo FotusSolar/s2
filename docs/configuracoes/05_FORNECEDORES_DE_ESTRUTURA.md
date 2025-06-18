@@ -3,10 +3,11 @@
 
 ## FORNECEDORES DE ESTRUTURA [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/fornecedores-estrutura)]
 
-Sistema para cadastro dos fornecedores de estrutura no Solaryum para instalação dos kits
+Módulo para gerenciamento da cadeia de fornecimento de estruturas de fixação e suporte para sistemas fotovoltaicos. Esta
+interface permite criar e manter um catálogo de fabricantes de estruturas metálicas e componentes de montagem. A
+curadoria de fornecedores homologados assegura padrões de qualidade, conformidade normativa e rastreabilidade dos
+materiais utilizados nos projetos dos integradores.
 
-- Upload da logo - Identidade visual do fornecedor, utilizada em propostas comerciais e materiais técnicos para
-  fortalecer a credibilidade do sistema ofertado
-- Nome - Razão social ou nome fantasia do fornecedor, usado para identificação nas listas de seleção e relatórios
-- [ ] Ativo - Controle de status do fornecedor, indicando se seus produtos podem ser incluídos em novas cotações e
-  pedidos
+- Upload da logo
+- Nome
+- [ ] Ativo

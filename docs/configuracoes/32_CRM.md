@@ -3,7 +3,12 @@
 
 ## CRM
 
-CRUD no Solaryum para cadastro dos funis de venda, separados pelos submenus abaixo:
+Sistema integrado de gestão de relacionamento com clientes projetado especificamente para o mercado fotovoltaico. Este
+módulo centraliza toda a jornada comercial com seus integradores, possibilitando a configuração de funis de vendas
+personalizados, definição de etapas de negociação, parametrização de atividades de acompanhamento e categorização por
+tags. A plataforma oferece uma visão do pipeline comercial com controle granular sobre oportunidades de negócio,
+permitindo segmentação inteligente de leads, automatização de follow-ups e análises preditivas de conversão que
+potencializam a eficiência da equipe de vendas.
 
 FUNIS [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/configuracoes-crm/funis)]
 

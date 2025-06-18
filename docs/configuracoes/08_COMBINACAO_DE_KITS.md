@@ -5,7 +5,12 @@
 
 `TODO: (avaliar funcionalidade da página)`
 
-Sistema no Solaryum para gerenciar combinações de kits.
+Motor para automatização da criação de combinações viáveis entre componentes fotovoltaicos, garantindo compatibilidade
+técnica e elétrica entre módulos e inversores. Esta ferramenta implementa algoritmos que verificam parâmetros como
+tensão, corrente, potência e características físicas para gerar automaticamente as possíveis configurações de sistemas
+que atendam às especificações técnicas e normas regulatórias. O módulo simplifica o trabalho de engenharia ao
+pré-validar as combinações possíveis entre equipamentos disponíveis no estoque, maximizando a variedade de ofertas sem
+comprometer a qualidade técnica.
 
 *OBS*: Há um botão crítico nessa página, que é o "Gerar combinações automaticamente." O botão não possui uma confirmação
 e, se clicado, inicia automaticamente a gerar os kits.

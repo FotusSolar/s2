@@ -3,7 +3,10 @@
 
 ## ANEXOS [[link](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/anexos)]
 
-Sistema de gestão dos documentos no Solaryum para cadastro de integrador, possuindo os seguintes campos:
+Viabilizam a padronização, controle e organização da documentação exigida no processo de cadastramento e homologação de
+integradores. Este módulo permite estabelecer requisitos documentais personalizáveis, definindo
+critérios de obrigatoriedade que agilizam a conformidade regulatória e comercial, além de facilitar auditorias e
+verificações de compliance.
 
 - Título
 - Descrição

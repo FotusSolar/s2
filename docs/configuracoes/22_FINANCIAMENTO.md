@@ -3,7 +3,12 @@
 
 ## FINANCIAMENTO [[geral](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/config-financiamento/geral) e [funil](https://sandbox.solaryum.com.br/fotus-yfe/configuracoes/config-financiamento/funil)]
 
-Tela de configuração de financiamento no Solaryum, com formulário contendo:
+Módulo financeiro que democratiza o acesso a sistemas fotovoltaicos através de opções
+personalizadas de parcelamento e crédito para clientes finais. Esta ferramenta permite configurar parâmetros de
+elegibilidade para financiamentos, definir limites operacionais e estabelecer processos de
+análise de crédito, viabilizando projetos solares que de outra forma seriam inacessíveis financeiramente. A plataforma
+automatiza etapas do fluxo de aprovação junto a instituições financeiras parceiras, oferecendo aos integradores um
+diferencial competitivo fundamental na conversão de vendas de sistemas de maior potência e valor agregado.
 
 - Aba Geral
     - Status
